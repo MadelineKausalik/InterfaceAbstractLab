@@ -31,6 +31,7 @@ public abstract class CollegeCourse {
         return this.getCourseName().toUpperCase();
     }
     
+    
     public String getCourseName() {
         return courseName;
     }
