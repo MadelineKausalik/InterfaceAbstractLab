@@ -9,7 +9,6 @@ public class Startup {
         
         
         CollegeCourse introToProgramming = new IntroToProgrammingCourse("Introduction to Programming","123-456",2.0,"None");
-            
         
         System.out.println(introToProgramming.getCourseName());
         System.out.println(introToProgramming.getCourseNumber());
