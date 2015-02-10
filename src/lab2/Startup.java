@@ -17,10 +17,6 @@ public class Startup {
     
     
         
-      
-        collegeCourse[0] = new IntroToProgrammingCourse(null, null);
-        collegeCourse[1] = new IntroJavaCourse(null, null);
-        collegeCourse[2] = new AdvancedJavaCourse(null, null);
         
     }
     
